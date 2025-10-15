@@ -22,7 +22,7 @@ from tensorflow.keras.preprocessing import image
 from PIL import Image
 import shap
 import matplotlib.pyplot as plt
-import cv2
+# import cv2
 import os
 import sys
 
@@ -268,4 +268,5 @@ st.markdown("""
     Developed by <b>Amal Prasad Trivedi</b><br>
     B.Tech – Computer Science (AI & ML)
 </div>
+
 """, unsafe_allow_html=True)
