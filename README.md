@@ -151,7 +151,7 @@ xai_chest_xray/
 
 - GitHub: [https://github.com/amalprasadtrivedi](https://github.com/amalprasadtrivedi)  
 - Portfolio: [https://amal-prasad-trivedi-portfolio.vercel.app/](https://amal-prasad-trivedi-portfolio.vercel.app/)  
-- LinkedIn: [https://www.linkedin.com/in/amal-prasad-trivedi-b47718271/](https://www.linkedin.com/in/amal-prasad-trivedi-b47718271/)
+- LinkedIn: [https://www.linkedin.com/in/amal-prasad-trivedi-b47718271/](https://www.linkedin.com/in/amalprasadtrivedi-aiml-engineer/)
 
 ---
 
